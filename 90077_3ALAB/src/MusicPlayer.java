@@ -1,3 +1,0 @@
-interface MusicPlayer {
-    void play();
-}
